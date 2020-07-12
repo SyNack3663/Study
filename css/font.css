@@ -1,0 +1,27 @@
+#style {
+    font-style: normal;
+}
+
+#variant {
+    font-variant: small-caps;
+}
+
+#weight {
+    font-weight: bolder;
+}
+
+#size {
+    font-size: xx-large;
+}
+
+#family {
+    font-family: cursive;
+}
+
+#size-adjust {
+    font-size-adjust: inherit;
+}
+
+#stretch {
+    font-stretch: narrower;
+}
